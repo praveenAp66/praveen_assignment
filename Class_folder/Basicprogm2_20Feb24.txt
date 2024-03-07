@@ -1,0 +1,6 @@
+inthe class we discussed about 
+1.arithametic operation
+2.assignment operation
+3.comparison and logical operation
+4.conditonal statement(if,if-else,while,for-loop)
+

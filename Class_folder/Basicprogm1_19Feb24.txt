@@ -1,0 +1,4 @@
+in class we discussed about 
+1.programming
+2.programming language (java script)
+3.some arithametic operation

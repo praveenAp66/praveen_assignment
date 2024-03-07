@@ -1,0 +1,8 @@
+in this class we dicusse about 
+1.git reset
+     *git hard
+     *git soft
+     *git mixed
+2.git revert
+3.git cherry-pick
+4.git rebase

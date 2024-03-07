@@ -1,0 +1,5 @@
+in this class we discussed about
+1.how to create branch
+2.merge brach
+3.stash
+4.git pop

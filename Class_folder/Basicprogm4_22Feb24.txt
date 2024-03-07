@@ -1,0 +1,7 @@
+in the class we dicussed about
+1.solve the problems related to loops and perform how to find the sum,avag,product of an array
+2.functions
+      *how to define a function
+      *syntax of the function
+3. solve the problems using functions.
+   

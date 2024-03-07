@@ -1,0 +1,12 @@
+in this class we discussed about
+1.data types
+2.methods of an data type
+    *index of an array
+*tolowecase()
+*touppercase()
+*include()
+*substring()
+*trim()
+*split()
+*parseint()
+*shift(),unshift(),slice(),splice()

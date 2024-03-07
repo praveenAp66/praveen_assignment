@@ -1,0 +1,6 @@
+in this class we discussed about
+1.what is git
+2.what is vcs
+3.architecture of git 
+4.create file,folder
+5.how to commit,hoqw to check status

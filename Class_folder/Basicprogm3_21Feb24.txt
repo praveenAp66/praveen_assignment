@@ -1,0 +1,10 @@
+in the class we discussed about 
+1.Arrays
+     *declaration
+     *properties
+2.object
+     *declaration
+     *properties
+
+3.looping statements
+     *discussed some problems reated to loops (while,for)

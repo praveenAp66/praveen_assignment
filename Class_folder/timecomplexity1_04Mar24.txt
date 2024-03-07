@@ -1,0 +1,4 @@
+in this class we discussed about 
+1.what time complexity
+2 how to calculate time complexity
+3.solved some problems and found out tghe time complexity of that program

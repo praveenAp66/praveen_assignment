@@ -1,0 +1,4 @@
+in this class we discussed about the
+1.time complexity of problem
+2.we discussed about logN,N,NlogN....etc
+and we got to know the order of the time complexity
