@@ -1,0 +1,5 @@
+in this class we discussed about 
+1.cumulative array
+ *what is cumulative array
+ *how to calculate cumulative array
+ *problems related to cumulative array
