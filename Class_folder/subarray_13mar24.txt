@@ -1,0 +1,3 @@
+in this class we discussed about 
+1.how to find out the sub arrays of an given array
+2.solved the problems on the sumof all sub array, max subarray sum,length of subarray

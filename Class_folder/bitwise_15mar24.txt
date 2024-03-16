@@ -1,0 +1,6 @@
+in this class we discussed about 
+1.what is bitwise operator
+2.different types of bitwise operator
+3.leftshift operator
+4.rightshift operator
+5.problems related to using bitwise

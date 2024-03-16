@@ -1,3 +1,5 @@
 in this class we discussed about 
   1.how to calculate cumulative array 
   2.how to calculate sum of cumulative array over the range
+  3.cumulative even array and cumulative odd  array
+  4.introduction to carry forward approach

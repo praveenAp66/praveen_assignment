@@ -1,0 +1,3 @@
+in this class we discussed about
+1.introduction to hashing
+2.problems on hashing technique

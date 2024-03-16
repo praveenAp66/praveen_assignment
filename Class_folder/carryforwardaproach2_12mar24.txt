@@ -1,0 +1,3 @@
+in this class we discussed about 
+ 1.implementation of the carryforward approach
+ 2.imtroduction to subarray
