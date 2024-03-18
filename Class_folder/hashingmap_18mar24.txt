@@ -1,0 +1,3 @@
+in this class we discussed about hasing technique:set
+1.introduction to set and map 
+2.solved problems on duplicae,unique element using map and set method 
