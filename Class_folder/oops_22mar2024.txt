@@ -1,0 +1,3 @@
+in this class we discussed about 
+1.let and var keyword
+2.diff b/w let and  var

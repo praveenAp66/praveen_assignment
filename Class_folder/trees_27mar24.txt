@@ -1,0 +1,4 @@
+in this class we discussed about 
+1.what is tree
+2.how to traverse throgh tree 1.inorder 2.preorder 3.postorder
+3.binary tree

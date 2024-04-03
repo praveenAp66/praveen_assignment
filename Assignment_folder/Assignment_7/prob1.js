@@ -1,0 +1,1 @@
+1. Determine if a string/number is a palindrome?

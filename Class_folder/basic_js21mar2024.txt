@@ -1,0 +1,3 @@
+in this class we discussed about
+1 basic  js like class,constructor,function
+2.how to access class,function

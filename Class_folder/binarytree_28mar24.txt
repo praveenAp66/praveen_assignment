@@ -1,0 +1,4 @@
+in this class we discussedabout
+1.what is binary tree
+2.importance of binary tree
+3.solved problems on height of tree and size of tree

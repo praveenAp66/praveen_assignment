@@ -1,0 +1,5 @@
+in this class we discussed about 
+what is stack ?
+what is queue ?
+when to use stacks and queues
+implementation of stacks and queue

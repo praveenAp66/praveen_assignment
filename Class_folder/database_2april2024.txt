@@ -1,0 +1,7 @@
+in this class we discussed about 
+1.what is databse ?
+2.what is dbms and rdbms ?
+3.keys
+  1.primary key 
+  2.foreign key
+  3.candidate key

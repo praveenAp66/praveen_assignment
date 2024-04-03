@@ -1,0 +1,4 @@
+in this class we discussed about 
+1.what is linked list
+2.when to use linkedlist
+3.implementation of linkedlist

@@ -1,0 +1,4 @@
+in this class we discussed about
+1.binary search technique
+2.sub sequence
+3.problems on sub sequence
