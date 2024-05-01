@@ -1,0 +1,6 @@
+in this class we discussed about 
+1.crud operation
+2.how to insert
+3.how to add 
+4.how to drop 
+5.how to exexute 

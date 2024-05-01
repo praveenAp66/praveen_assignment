@@ -1,0 +1,5 @@
+in this class we discussed about
+1.normalization
+1.1st normalization
+2.2nd normalization
+3.3rdnormalization

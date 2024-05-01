@@ -1,0 +1,9 @@
+in this session we will discuss about
+1.what is linux 
+2.why we need 
+3.discused some commands 
+a). pwd
+b).mkdir
+c).ls,ls-l,ls-lr,ls-lrt,ls -lh,
+d).cd,cd../,cd../../,cd ~/
+e)rmdir,rm rm-f,rm -rf*

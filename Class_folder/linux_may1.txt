@@ -1,0 +1,17 @@
+linux commands
+1)tail,tail -4 f1
+2)less
+3)less -4
+4)du -sh
+5)du -sb
+6)df -hl
+7)chmod u+rwx file10
+8)chmod u-rwx file10
+9)chmod g+rwx file10
+10)chmod g-rwx file10
+11)chmod o+rwx file10
+12)chmod o-rwx file10
+13)chmod 777 file10
+14)who
+15)whoami
+16)id

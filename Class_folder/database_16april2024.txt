@@ -1,0 +1,5 @@
+in this class we discussed about
+1.group by clause
+2.having clause
+3.diff bw where and having clause
+4.write some querys on group and having clause

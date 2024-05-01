@@ -1,0 +1,6 @@
+in this clause we discussed about 
+1.in this clause we discussed about joins
+2.self join
+3.left join
+3.right join
+solved some problems on above joins

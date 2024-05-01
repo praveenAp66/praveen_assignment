@@ -1,0 +1,5 @@
+in this class we discussed about 
+1.from clause 
+2.where clause
+3.select clause
+4.solved queries on sql workbench for above clauses

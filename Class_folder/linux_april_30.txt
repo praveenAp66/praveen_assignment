@@ -1,0 +1,17 @@
+in this cklass we discussed about linux commands
+1.cd
+2.ls -la,ls -lah
+3.cp
+4.cp f1 f2,cp-r d1 d2
+5.cat f1
+6.cat-n f1
+7.mv f1 f2
+8.mv f1 dir/f2
+9.echo
+10.printenc
+11.export fsd=fsdbatch
+12.echo $fsd
+13.unset fsd
+14.wc f1,wc -l f1,wc -c f2,wc -w f3
+15,vi,vi i,vi:w,vi:wq,vi:q,vi:q!
+16.touch t1

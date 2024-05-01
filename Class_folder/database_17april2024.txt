@@ -1,0 +1,4 @@
+in this class we discussed about indexing
+1.how to create indexing
+2.pros and cons of indexing
+3.uses of indexing
