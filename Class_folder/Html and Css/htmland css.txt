@@ -1,0 +1,11 @@
+in this class we discussed about
+1.what is html 
+2.structuure ofhtml
+3.tags in html 
+    a)semantic tags
+    b)non-semantic tags
+4.box model 1.padding,margin,content
+5.what is css
+6.ways to define css 1.inline,srtle tag,external style sheet
+7.css properties
+8.flex and proprties

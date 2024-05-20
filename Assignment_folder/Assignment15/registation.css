@@ -1,0 +1,33 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+h2{
+    color: red;
+    text-align: center;
+    
+
+}
+
+div{
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    border-radius: 2px;
+    width:300px;
+    margin: 20px auto;
+
+
+}
+.submit{
+    background-color: white;
+    color: red;
+    margin-left: 100px;
+
+}
+.reset{
+    background-color: white;
+    color: blue;
+
+}

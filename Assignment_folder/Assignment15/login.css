@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+h2{
+    color: red;
+}
+div{
+    height: 200px;
+    width: 500px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 20px auto;
+    background-color: aqua;
+
+}
+#button1{
+    background-color: white;
+    color:green;
+   margin-left: 50px;
+
+}
+#button2{
+    background-color: white;
+    color: darkblue;
+    margin-left: 10px;
+
+}

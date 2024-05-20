@@ -1,0 +1,25 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+h2{
+    color: green;
+    text-align: center;
+
+}
+div{
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    border-radius: 2px;
+    width: 300px;;
+    margin: 20px auto;
+
+
+}
+button{
+    margin-left: 120px;
+    background-color: bisque;
+    color: red;
+}
